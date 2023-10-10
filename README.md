@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TonyM-Analyst, I'm new to this and committted to mastering Python and Javascript with minimal errors
+- 👋 Hi, I’m @TonyM-Analyst, I have taken some advanced courses on Python and Javascript and am now committted to improving speed with minimal errors.
 - 👀 I’m interested in ... Machine Learning, Data Visualization
 - 🌱 I’m currently learning ... React API, Full stack Development, flask, Python, Javascript, Matplotlib
 
