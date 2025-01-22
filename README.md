@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TonyM-Analyst, I have taken some advanced courses on Python and Javascript and am now committted to improving speed with minimal errors.
-- 👀 I’m interested in ... Machine Learning, AI/LLM
-- 🌱 I’m currently learning ... React API, Gradio, Docker, flask, Python, Javascript, Matplotlib
+- 👋 Hi, I’m @TonyM, I'm a Jr. Software Engineer and mainly work on React Full Stack Applications using Flask and PostGres.
+- 👀 I’m interested in ... becoming an expert in Javascript, learning more about data visualization strategy
+- 🌱 I’m currently learning ... React, FastAPI, Psql(pgadmin), Docker, flask, Python(PolyMorphism), Javascript 
 
 
 
