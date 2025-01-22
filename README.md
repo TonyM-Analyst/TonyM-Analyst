@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TonyM, I'm a Jr. Software Engineer and mainly work on React Full Stack Applications using Flask and PostGres.
+- 👋 Hi, I’m @TonyM, I'm a Software Engineer and mainly work on React Full Stack Applications using Flask and PostGres.
 - 👀 I’m interested in ... becoming an expert in Javascript, learning more about data visualization strategy
 - 🌱 I’m currently learning ... React, FastAPI, Psql(pgadmin), Docker, flask, Python(PolyMorphism), Javascript 
 
