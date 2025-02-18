@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TonyM, I'm a Software Engineer and mainly work on React Full Stack Applications using Flask and PostGres.
-- 👀 I’m interested in ... becoming an expert in Javascript, learning more about data visualization strategy
-- 🌱 I’m currently learning ... React, FastAPI, Psql(pgadmin), Docker, flask, Python(PolyMorphism), Javascript 
+- 👋 Hi, I’m @TonyM, I'm a Software Engineer and mainly work on React Full Stack Applications using Docker, Flask, and PostGres.
+- 👀 I’m interested in ... honing Javascript skills, exploring React libraries
+- 🌱 I’m currently learning ... React, Gatsby, Remix, Next.js, C, Docker, Rust
 
 
 
