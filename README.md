@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TonyM, I'm a Software Developer and have experience utilizing this Tech Stack: React/JavaScript, Docker/docker-compose, Git, Python/Flask/Pydantic/Alembic/Pandas/Numpy, and MongoDB/PostGreSQL/DuckDB.
+- 👋 Hi, I’m Anthony, I'm a Software Developer and have experience utilizing this: React/JavaScript, Docker/docker-compose, Git, Python/Flask/Pydantic/Alembic/Pandas/Numpy, and MongoDB/PostGreSQL/DuckDB.
 - 👀 I’m interested in ... learning new languages and improving my semantic working knowledge
 - 🌱 I’m currently learning ... C#
 - I enjoy designing front-ends that help display data in way that is enjoyable for users to look at; I also enjoy taking complex data and making easy to use applications that allows users to interact with and visualize key data metrics.
