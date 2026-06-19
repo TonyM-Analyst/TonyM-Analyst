@@ -2,7 +2,7 @@
 
 # Anthony McCune
 
-**Software Developer · Hillsdale College IT**
+**Software Developer**
 *Building tools that make data enjoyable*
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -18,7 +18,7 @@
 
 ### 👋 About me
 
-I'm a software developer focused on building front-ends that display data in a way users actually enjoy, and turning complex datasets into intuitive, interactive experiences. I'm currently expanding into enterprise .NET development and cloud architecture at Hillsdale College IT.
+I'm a software developer focused on building full stack applications that display data in a way users actually enjoy, and turning complex datasets into intuitive, interactive experiences. I'm currently expanding into enterprise .NET development and api/cloud architecture. 
 
 ---
 
